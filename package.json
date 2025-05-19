@@ -1,0 +1,25 @@
+{
+  "name": "idea_exchange_hub",
+  "version": "1.0.0",
+  "description": "A simple backend server to fetch questions from Firebase Realtime Database using Node.js and Express.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamurfazil/IDEA_EXCHANGE_HUB.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamurfazil/IDEA_EXCHANGE_HUB/issues"
+  },
+  "homepage": "https://github.com/iamurfazil/IDEA_EXCHANGE_HUB#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "firebase-admin": "^13.4.0"
+  }
+}
